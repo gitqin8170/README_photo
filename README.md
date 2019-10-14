@@ -6,17 +6,17 @@
 
 
 
-![](C:\Users\dtsea02\Desktop\git上传图片.md格式\images\2.png)
+![](https://github.com/gitqin8170/README_photo/blob/master/images/1.jpg)
 
-![](C:\Users\dtsea02\Desktop\git上传图片.md格式\images\3.png)
-
-
+![](https://github.com/gitqin8170/README_photo/blob/master/images/2.jpg)
 
 
 
 
 
-![](C:\Users\dtsea02\Desktop\git上传图片.md格式\images\1.jpg)
+
+
+![](https://github.com/gitqin8170/README_photo/blob/master/images/3.jpg)
 
 
 
